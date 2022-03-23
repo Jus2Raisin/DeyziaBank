@@ -1,0 +1,9 @@
+main: space.debian.playerchest.Main
+name: DeyziaBank
+version: 0.0.1
+author: Buvance, Jus2Raisin
+
+commands:
+  coffre:
+    aliases: [pv, bank]
+    usage: "Unknown command. Type \"/help\" for help."
